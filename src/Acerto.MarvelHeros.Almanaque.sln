@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.WebApi", "Acerto.MarvelHeros.Almanaque.WebApi\Acerto.MarvelHeros.Almanaque.WebApi.csproj", "{F537D992-3E1F-490B-AEC4-308E06EAB864}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{2D3AD26E-359D-43F7-8B5B-0B9620D7B813}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{855D91CB-B80F-4E6A-8238-47B6D523A23A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Api", "6 - Api", "{20F59A83-73A0-41A7-B2C9-9956AF5F524E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.Dominio", "Acerto.MarvelHeros.Almanaque.Dominio\Acerto.MarvelHeros.Almanaque.Dominio.csproj", "{78BE6719-5574-4AD2-BDBE-4638A451997C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.MarvelApiAdapter", "Acerto.MarvelHeros.Almanaque.MarvelApiAdapter\Acerto.MarvelHeros.Almanaque.MarvelApiAdapter.csproj", "{66C335FF-E3D3-48F8-82B7-908DB091CC52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8 - Testes", "8 - Testes", "{EA87C31C-019C-49A8-BF38-5E2A582CA20D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.Testes", "Acerto.MarvelHeros.Almanaque.Testes\Acerto.MarvelHeros.Almanaque.Testes.csproj", "{5062FB48-5715-48D0-91AD-61E994279383}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Aplicacao", "0 - Aplicacao", "{8E9CE9EA-94E6-4013-A677-1A5E0AAFEC5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.Aplication", "Acerto.MarvelHeros.Almanaque.Aplication\Acerto.MarvelHeros.Almanaque.Aplication.csproj", "{FF41C6A0-3C60-4EAD-9AD3-462231A516A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.Md5", "Acerto.MarvelHeros.Almanaque.Md5\Acerto.MarvelHeros.Almanaque.Md5.csproj", "{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acerto.MarvelHeros.Almanaque.GoogleTradutorAdapter", "Acerto.MarvelHeros.Almanaque.GoogleTradutorAdapter\Acerto.MarvelHeros.Almanaque.GoogleTradutorAdapter.csproj", "{670181C9-0F04-42AB-BF5F-49412B78B194}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 - Recursos", "7 - Recursos", "{522B850E-724B-4126-AAC0-CE4337519A0C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Script de Create da Tabela de Log.sql = ..\..\Script de Create da Tabela de Log.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acerto.MarvelHeros.Almanaque.Md5.Abstractions", "Acerto.MarvelHeros.Almanaque.Md5.Abstractions\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.csproj", "{4CD38950-ED2A-4848-9459-C69D3AD8B61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions", "Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.csproj", "{EBA1C9D7-2026-4695-BDAD-C5033D680288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F537D992-3E1F-490B-AEC4-308E06EAB864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F537D992-3E1F-490B-AEC4-308E06EAB864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F537D992-3E1F-490B-AEC4-308E06EAB864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F537D992-3E1F-490B-AEC4-308E06EAB864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BE6719-5574-4AD2-BDBE-4638A451997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BE6719-5574-4AD2-BDBE-4638A451997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BE6719-5574-4AD2-BDBE-4638A451997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BE6719-5574-4AD2-BDBE-4638A451997C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C335FF-E3D3-48F8-82B7-908DB091CC52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C335FF-E3D3-48F8-82B7-908DB091CC52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C335FF-E3D3-48F8-82B7-908DB091CC52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C335FF-E3D3-48F8-82B7-908DB091CC52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5062FB48-5715-48D0-91AD-61E994279383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5062FB48-5715-48D0-91AD-61E994279383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5062FB48-5715-48D0-91AD-61E994279383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5062FB48-5715-48D0-91AD-61E994279383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF41C6A0-3C60-4EAD-9AD3-462231A516A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF41C6A0-3C60-4EAD-9AD3-462231A516A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF41C6A0-3C60-4EAD-9AD3-462231A516A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF41C6A0-3C60-4EAD-9AD3-462231A516A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670181C9-0F04-42AB-BF5F-49412B78B194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670181C9-0F04-42AB-BF5F-49412B78B194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670181C9-0F04-42AB-BF5F-49412B78B194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670181C9-0F04-42AB-BF5F-49412B78B194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD38950-ED2A-4848-9459-C69D3AD8B61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD38950-ED2A-4848-9459-C69D3AD8B61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD38950-ED2A-4848-9459-C69D3AD8B61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD38950-ED2A-4848-9459-C69D3AD8B61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBA1C9D7-2026-4695-BDAD-C5033D680288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA1C9D7-2026-4695-BDAD-C5033D680288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA1C9D7-2026-4695-BDAD-C5033D680288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA1C9D7-2026-4695-BDAD-C5033D680288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F537D992-3E1F-490B-AEC4-308E06EAB864} = {20F59A83-73A0-41A7-B2C9-9956AF5F524E}
+		{78BE6719-5574-4AD2-BDBE-4638A451997C} = {855D91CB-B80F-4E6A-8238-47B6D523A23A}
+		{66C335FF-E3D3-48F8-82B7-908DB091CC52} = {2D3AD26E-359D-43F7-8B5B-0B9620D7B813}
+		{5062FB48-5715-48D0-91AD-61E994279383} = {EA87C31C-019C-49A8-BF38-5E2A582CA20D}
+		{FF41C6A0-3C60-4EAD-9AD3-462231A516A5} = {8E9CE9EA-94E6-4013-A677-1A5E0AAFEC5C}
+		{E501C9D2-1F0E-481D-8DFD-EA09AB1CFC1A} = {2D3AD26E-359D-43F7-8B5B-0B9620D7B813}
+		{670181C9-0F04-42AB-BF5F-49412B78B194} = {2D3AD26E-359D-43F7-8B5B-0B9620D7B813}
+		{4CD38950-ED2A-4848-9459-C69D3AD8B61B} = {2D3AD26E-359D-43F7-8B5B-0B9620D7B813}
+		{EBA1C9D7-2026-4695-BDAD-C5033D680288} = {2D3AD26E-359D-43F7-8B5B-0B9620D7B813}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3341DB3-2C41-4B55-ABFA-7A95563E0ED7}
+	EndGlobalSection
+EndGlobal

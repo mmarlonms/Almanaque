@@ -1,0 +1,17 @@
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.deps.json
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.dll
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.pdb
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.AssemblyInfoInputs.cache
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.AssemblyInfo.cs
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.dll
+C:\Users\marlo\source\repos\Acerto.MarvelHeros.Almanaque\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.pdb
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.deps.json
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.pdb
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.csprojAssemblyReference.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.AssemblyInfo.cs
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Dominio\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Dominio.pdb

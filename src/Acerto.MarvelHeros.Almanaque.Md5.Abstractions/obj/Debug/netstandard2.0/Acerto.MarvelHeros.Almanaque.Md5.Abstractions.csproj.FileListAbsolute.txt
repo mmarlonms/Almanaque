@@ -1,0 +1,9 @@
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.deps.json
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.pdb
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.AssemblyInfo.cs
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.pdb
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.csprojAssemblyReference.cache

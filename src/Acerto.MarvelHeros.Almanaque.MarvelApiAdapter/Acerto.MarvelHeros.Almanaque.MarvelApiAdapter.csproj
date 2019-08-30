@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Refit" Version="4.6.99" />
+    <PackageReference Include="Refit.HttpClientFactory" Version="4.6.99" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Acerto.MarvelHeros.Almanaque.Dominio\Acerto.MarvelHeros.Almanaque.Dominio.csproj" />
+    <ProjectReference Include="..\Acerto.MarvelHeros.Almanaque.Md5.Abstractions\Acerto.MarvelHeros.Almanaque.Md5.Abstractions.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>..\..\..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.netcore.app\2.1.0\ref\netcoreapp2.1\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

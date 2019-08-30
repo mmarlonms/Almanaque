@@ -1,0 +1,32 @@
+2019-03-22 08:47:05.323 -03:00 [Information] Busca Iniciada em 03/22/2019 11:47:05 pelo heroi de nome "Thor"
+2019-03-22 08:47:08.391 -03:00 [Information] Busca Realizada com suscesso em 03/22/2019 11:47:08 pelo heroi de nome "Thor"
+2019-03-22 08:50:46.048 -03:00 [Information] Busca Iniciada em 03/22/2019 11:50:46 pelo heroi de nome "asdasd"
+2019-03-22 08:50:46.934 -03:00 [Information] Busca Realizada com suscesso em 03/22/2019 11:50:46 pelo heroi de nome "asdasd"
+2019-03-22 08:51:58.948 -03:00 [Information] Busca Iniciada em 03/22/2019 11:51:58 pelo heroi de nome "asdasd"
+2019-03-22 08:51:59.843 -03:00 [Information] Busca Realizada com suscesso em 03/22/2019 11:51:59 pelo heroi de nome "asdasd"
+2019-03-22 08:52:25.482 -03:00 [Error] An unhandled exception has occurred while executing the request.
+The service translate has thrown an exception: Google.GoogleApiException: Google.Apis.Requests.RequestError
+Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project. [401]
+Errors [
+	Message[Invalid Credentials] Location[Authorization - header] Reason[authError] Domain[global]
+]
+
+   at Acerto.MarvelHeros.Almanaque.GoogleTradutorAdapter.GoogleTradutorAdapter.TraduzirPtBrToEnUs(String termo) in C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutorAdapter\GoogleTradutorAdapter.cs:line 34
+   at Acerto.MarvelHeros.Almanaque.WebApi.Controllers.AlmanaqueController.BuscarHeroiPtBrAsync(String nome) in C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.WebApi\Controllers\AlmanaqueController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Acerto.MarvelHeros.Almanaque.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:Acerto.MarvelHeros.Almanaque.WebApi.Controllers.AlmanaqueController.BuscarHeroiEnusAsync(System.String)">
+            <summary>
+                Obtem as informações dos Herois da Marvel cujo nome tenha correspondencia com o nome informado. 
+                O nome deve estar de acordo com o nome do personagem nos EUA, Ex: de "Homen Aranha" para "Spider Man", de "Homem de Ferro" para "Iron Man", etc.
+            </summary>
+            <param name="nome"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Acerto.MarvelHeros.Almanaque.WebApi.Controllers.AlmanaqueController.BuscarHeroiPtBrAsync(System.String)">
+            <summary>
+                Obtem as informações dos Herois da Marvel cujo nome tenha correspondencia com o nome informado. 
+                O nome deve estar de acordo com o nome do personagem no Brasil, Ex: Homen Aranha, Homem de Ferro
+            </summary>
+            <remarks> Obs.: O método foi colocado com obsoleto pois prara funcionar é necessário uma conta do google ativa com a funação translate habilitada, como descobri que     o método é pago após a impelmentação, optei por manter como exemplo. </remarks>
+            <param name="nome"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

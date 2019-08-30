@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Cloud.Translation.V2" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Acerto.MarvelHeros.Almanaque.Dominio\Acerto.MarvelHeros.Almanaque.Dominio.csproj" />
+    <ProjectReference Include="..\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>

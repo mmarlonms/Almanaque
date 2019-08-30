@@ -1,0 +1,8 @@
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.deps.json
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\bin\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.pdb
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.AssemblyInfoInputs.cache
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.AssemblyInfo.cs
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.dll
+C:\Users\marlo\Desktop\acerto.marvelheros.almanaque\src\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions\obj\Debug\netstandard2.0\Acerto.MarvelHeros.Almanaque.GoogleTradutor.Abstractions.pdb
